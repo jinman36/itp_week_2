@@ -6,7 +6,6 @@
 #     - A function that subtracts one integer from another
 #     - A function that multiplies three integers
 #     - A function that adds four integers
-
 # Medium: 
 #     - Create a calculator function using THREE input parameters (two float, one string) to all the user to add, substract, multiply and divide.
 

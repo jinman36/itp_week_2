@@ -202,7 +202,7 @@ person_bob.popitem()
 
 # The del keyword removes the item with the specified key name:
 
-del person_bob["age"]
+# del person_bob["age"]
 
 # NOTE: The del keyword can also delete the dictionary completely:
 
